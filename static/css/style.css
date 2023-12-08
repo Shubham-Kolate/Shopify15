@@ -1,0 +1,8 @@
+#some{
+    background: linear-gradient(135deg, rgb(233, 239, 233), rgb(242, 242, 216));
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+}
+.anchor{
+    text-decoration: none;
+}
